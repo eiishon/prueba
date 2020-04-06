@@ -8,8 +8,10 @@ html{
     top: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Kavoon', cursive;
-    color: aquamarine;
     background-color: lightgrey;
+    -webkit-text-fill-color: aquamarine;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1.00px;
 }
 
 
