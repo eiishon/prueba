@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Kavoon&display=swap');
+html{
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Kavoon', cursive;
+    color: aquamarine;
+    background-color: lightgrey;
+}
+
+
